@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "894690821614",
+    "project_id": "covid-f83e7",
+    "storage_bucket": "covid-f83e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894690821614:android:232e6ace726d39aeb5baff",
+        "android_client_info": {
+          "package_name": "com.technic.covid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "894690821614-qsc2npg19eprlv0lovo2q3mno7hjcmck.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCweC_NVD8_hoOq3nc0LhYj1O8lApnZuT8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "894690821614-qsc2npg19eprlv0lovo2q3mno7hjcmck.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
